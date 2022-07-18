@@ -1,0 +1,86 @@
+
+/*********************Elements****************/
+body {
+  background-color: #F0EBE3;
+  font-family: system-ui;
+  text-align: center;
+}
+
+div{
+  margin:1%;
+  background-color:#E4DCCF;
+  padding:5px;
+  /*border-bottom: solid 5px;*/
+  /*border:0.1px solid;*/
+}
+
+hr {
+  border-style: dotted none none none;
+  background-color:#F0EBE3;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}
+
+h1 {
+  color: #2C3639;
+}
+
+h3 {
+  color: #2C3639;
+}
+
+h4 {
+  color: #2C3639;
+  }
+
+p{
+  color: #3F4E4F;
+  font-size: 14px;
+}
+
+li{
+  color: #3F4E4F;
+  font-size: 14px;
+  }
+
+table{
+  color: #3F4E4F;
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+/*********************Classes****************/
+.Summary{
+  margin-right: 50%;
+
+}
+
+.Skillsdiv{
+  margin-left: 50%;
+
+}
+
+.profexp{
+  margin-right: 50%;
+}
+
+.contdet{
+  margin-left: 50%;
+  padding: 20px;
+  line-height: 200%;
+}
+
+
+.skills{
+  color: Blue;
+}
+.currentposition{
+  font-weight: bold;
+}
+
+/*********************ID's****************/
+#circular{
+  border-radius:100px;
+}
